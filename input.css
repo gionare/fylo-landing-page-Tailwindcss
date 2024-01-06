@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&family=Space+Mono:wght@700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* #header-img {
+    background-image: url(../images/logo.svg);
+} */
+#hero {
+    /* background-image: url(../images/illustration-1.svg); */
+    background-repeat: no-repeat;
+    background-size: contain;
+}
